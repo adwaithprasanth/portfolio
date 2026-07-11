@@ -1,7 +1,7 @@
 export const siteConfig = {
   name: "Adwaith Prasanth",
   title: "Dev",
-  description: "Portfolio website of Ryan Fitzgerald",
+  description: "Portfolio website of Adwaith Prasanth",
   accentColor: "#22C55E",
   social: {
     email: "adwaithp@yahoo.com",
