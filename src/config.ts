@@ -2,7 +2,7 @@ export const siteConfig = {
   name: "Adwaith Prasanth",
   title: "lorem ipsum",
   description: "Portfolio website of Ryan Fitzgerald",
-  accentColor: "#3B82F6",
+  accentColor: "#22C55E",
   social: {
     email: "adwaithp@yahoo.com",
     linkedin: "https://linkedin.com/in/adwaithprasanth",
