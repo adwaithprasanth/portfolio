@@ -1,6 +1,6 @@
 export const siteConfig = {
   name: "Adwaith Prasanth",
-  title: "Dev",
+  title: "lorem ipsum",
   description: "Portfolio website of Adwaith Prasanth",
   accentColor: "#22C55E",
   social: {
@@ -69,9 +69,9 @@ export const siteConfig = {
   ],
   education: [
     {
-      school: "University Name",
-      degree: "Bachelor of Science in Computer Science",
-      dateRange: "2014 - 2018",
+      school: "Marian Engineering College",
+      degree: "Bachelor of Technology in Computer Science",
+      dateRange: "2022 - 2026",
       achievements: [
         "Graduated Magna Cum Laude with 3.8 GPA",
         "Dean's List all semesters",
