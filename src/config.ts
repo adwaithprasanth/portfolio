@@ -14,23 +14,23 @@ export const siteConfig = {
   skills: ["Javascript", "React", "Node.js", "Python", "AWS", "Docker"],
   projects: [
     {
-      name: "AI Dev Roundup Newsletter",
+      name: "Lorem ipsum dolor sit",
       description:
-        "One concise email. Five minutes. Every Tuesday. Essential AI news & trends, production-ready libraries, powerful AI tools, and real-world code examples",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vulputate lorem eget ipsum lacinia dapibus. Donec luctus porttitor malesuada.",
       link: "https://aidevroundup.com/?ref=devportfolio",
       skills: ["React", "Node.js", "AWS"],
     },
     {
-      name: "Chrome Extension Mastery: Build Full-Stack Extensions with React & Node.js",
+      name: "Lorem ipsum dolor sit",
       description:
-        "Master the art of building production-ready, full-stack Chrome Extensions using modern web technologies and best practices",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vulputate lorem eget ipsum lacinia dapibus. Donec luctus porttitor malesuada.",
       link: "https://fullstackextensions.com/?ref=devportfolio",
       skills: ["React", "Node.js", "AWS"],
     },
     {
-      name: "ExtensionKit",
+      name: "Lorem ipsum dolor sit",
       description:
-        "Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates & examples",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vulputate lorem eget ipsum lacinia dapibus. Donec luctus porttitor malesuada.",
       link: "https://extensionkit.io/?ref=devportfolio",
       skills: ["React", "Node.js", "AWS"],
     },
